@@ -112,5 +112,5 @@ UL_1624_01_split
 
 ## Authors
 
-Based very heavily on 'split_sip.py' by [sevein](https://github.com/sevein), downloaded by someone many moons ago
-Adapted for the UBC Library Digitization Centre 2018-06 by [rebeckson](https://github.com/rebeckson)
+* Based very heavily on 'split_sip.py' by [sevein](https://github.com/sevein), downloaded by someone many moons ago
+* Adapted for the UBC Library Digitization Centre 2018-06 by [rebeckson](https://github.com/rebeckson)
